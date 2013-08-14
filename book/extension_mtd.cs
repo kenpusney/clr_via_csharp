@@ -18,7 +18,7 @@ namespace CLR_via_CS
             return b.Length;
         }
         public static int parse(this B b) {
-            return b.Length;
+            return b.Age;
         }
     }
     class B {
